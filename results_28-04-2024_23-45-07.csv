@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1714344311052,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 8: https://blazemeterdemo.com /,Irshad-Module 5 - Assessment 1-1,text,false,,1187,0,1,1,https://blazemeterdemo.com /,0,0,0
+1714344314058,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 8: https://blazemeterdemo.com /,Irshad-Module 5 - Assessment 1-1,text,false,,1187,0,1,1,https://blazemeterdemo.com /,0,0,0
+1714344317068,0,HTTP Request,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in authority at index 8: https://blazemeterdemo.com /,Irshad-Module 5 - Assessment 1-1,text,false,,1187,0,1,1,https://blazemeterdemo.com /,0,0,0

@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Filename,Latency,Encoding,SampleCount,ErrorCount,IdleTime,Connect
+1714345820969,1045,HTTP Request,200,OK,Irshad-Module 6 - Assessment 1-1,text,true,,230828,238,1,1,https://www.blazemeter.com/,,859,UTF-8,1,0,0,826
+1714345820969,864,HTTP Request-0,301,Moved Permanently,Irshad-Module 6 - Assessment 1-1,,true,,378,117,1,1,https://blazemeter.com/,,859,UTF-8,1,0,0,826
+1714345821835,179,HTTP Request-1,200,OK,Irshad-Module 6 - Assessment 1-1,text,true,,230450,121,1,1,https://www.blazemeter.com/,,115,UTF-8,1,0,0,78
+1714345825031,198,HTTP Request,200,OK,Irshad-Module 6 - Assessment 1-1,text,true,,230829,238,1,1,https://www.blazemeter.com/,,139,UTF-8,1,0,0,106
+1714345825031,139,HTTP Request-0,301,Moved Permanently,Irshad-Module 6 - Assessment 1-1,,true,,378,117,1,1,https://blazemeter.com/,,139,UTF-8,1,0,0,106
+1714345825170,59,HTTP Request-1,200,OK,Irshad-Module 6 - Assessment 1-1,text,true,,230451,121,1,1,https://www.blazemeter.com/,,47,UTF-8,1,0,0,0
+1714345828242,215,HTTP Request,200,OK,Irshad-Module 6 - Assessment 1-1,text,true,,230828,238,1,1,https://www.blazemeter.com/,,123,UTF-8,1,0,0,87
+1714345828242,123,HTTP Request-0,301,Moved Permanently,Irshad-Module 6 - Assessment 1-1,,true,,378,117,1,1,https://blazemeter.com/,,123,UTF-8,1,0,0,87
+1714345828366,91,HTTP Request-1,200,OK,Irshad-Module 6 - Assessment 1-1,text,true,,230450,121,1,1,https://www.blazemeter.com/,,76,UTF-8,1,0,0,0

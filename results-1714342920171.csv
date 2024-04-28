@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Filename,Latency,Encoding,SampleCount,ErrorCount,IdleTime,Connect
+1714342920296,1095,HTTP Request,200,OK,Irshad-Module 5 - Assessment 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,,1086,UTF-8,1,0,0,755
+1714342924400,299,HTTP Request,200,OK,Irshad-Module 5 - Assessment 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,,294,UTF-8,1,0,0,0
+1714342927706,281,HTTP Request,200,OK,Irshad-Module 5 - Assessment 1-1,text,true,,4757,116,1,1,https://blazedemo.com/,,278,UTF-8,1,0,0,0

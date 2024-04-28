@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Filename,Latency,Encoding,SampleCount,ErrorCount,IdleTime,Connect
+1714345705006,46,HTTP Request,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (blazemeterdemo.com),Irshad-Module 6 - Assessment 1-1,text,false,,2525,0,1,1,https://blazemeterdemo.com/,,0,UTF-8,1,1,0,46
+1714345708067,0,HTTP Request,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: blazemeterdemo.com,Irshad-Module 6 - Assessment 1-1,text,false,,2239,0,1,1,https://blazemeterdemo.com/,,0,UTF-8,1,1,0,0
+1714345711079,1,HTTP Request,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: blazemeterdemo.com,Irshad-Module 6 - Assessment 1-1,text,false,,2239,0,1,1,https://blazemeterdemo.com/,,0,UTF-8,1,1,0,1
